@@ -1,4 +1,4 @@
-Outfit Match - Fashion Recommendation System
+Outfit Match - Fashion Suggestion
 Overview
 Outfit Match is an innovative AI-powered fashion assistant designed to help users create stylish and cohesive outfits effortlessly. Whether you're struggling with wardrobe decisions, color coordination, or staying on-trend, this application provides personalized recommendations tailored to your unique style preferences and existing clothing items. By leveraging machine learning and fashion expertise, Outfit Match simplifies your daily outfit selection process while helping you discover new ways to wear your clothes.
 
