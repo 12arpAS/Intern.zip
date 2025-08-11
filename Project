@@ -1,0 +1,31 @@
+Task 1 - Data Pipeline Development
+
+Description: Created an ETL pipeline using Pandas and Scikit-learn. The pipeline is for data preprocessing, transformation, and loading.
+
+
+
+
+Deliverable: A Python script or notebook automating the ETL process.
+
+Task 2 - Deep Learning Project
+
+Description: Implemented a deep learning model for image classification using TensorFlow Keras. The model was built, trained, and evaluated on the MNIST dataset.
+
+
+
+Deliverable: A functional model with visualizations of results.
+
+Task 3 - End-to-End Data Science Project
+
+Description: Developed a full data science project from data collection and preprocessing to model deployment using Flask or FastAPI.
+
+
+Deliverable: A deployed API or web app showcasing the model's functionality.
+
+Task 4 - Optimization Model
+
+Description: Solved a business problem using optimization techniques like linear programming and Python libraries such as PuLP. The project involved formulating constraints and an objective to maximize profit under resource limitations.
+
+
+Deliverable: A notebook demonstrating the problem setup, solution, and insights.
+
